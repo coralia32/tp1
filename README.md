@@ -5,4 +5,8 @@
 
 ## Compte-rendu tp1 Introduction GIT
 
-cette phrase est un test merci de le considérer comme tel
+la phrase de test est remplacé pour un petit compte rendu
+
+nous venons de créer un fichier readme important dans tout projet qui est de plus
+suivi par git pour ce faire nous avons du l'ajouter grace à git add "nom fichier"
+et a commit pour finaliser l'insertion avec git commit -m "commentaire"
